@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Caption&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'PT Sans Caption', sans-serif;
+  
+}
+body.fonts, body.fonts button, body.fonts input, body.fonts select, body.fonts textarea {
+  font-family: Soleil,Arial,sans-serif;
+}
+.hdr-big {
+  padding-top: 60px;
+}
+body, body * {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-width: 1200px;
+  padding-top: 45px;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 15px;
+  line-height: 1.6em;
+  color: #161616;
+  background-color: #f7f7f7;
+}
+
+body {
+  display: block;
+  margin: 8px;
+}
+  
+
+
+
